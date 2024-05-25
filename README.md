@@ -59,8 +59,6 @@ The custom linear regression model includes:
 - **Predict Method**: Predicts the salary for a given years of experience.
 - **Plot Method**: Visualizes the data points and the best fit line.
 
-## Visualization
+## Visualization custom linear regression model
 
-The `plot_best_fit_line` method will create a scatter plot of the original data points and draw the best fit line, providing a clear visual representation of the model's performance.
-
-# Thank Yoy!
+## Thank Yoy!
