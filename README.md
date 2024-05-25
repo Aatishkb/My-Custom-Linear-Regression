@@ -29,7 +29,7 @@ The dataset consists of the following columns:
 To run this project, you will need Python and the following libraries:
 - `numpy`
 - `matplotlib`
-- `pandas` (if needed for data manipulation)
+- `pandas` 
 
 
 ## Usage
